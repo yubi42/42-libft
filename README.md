@@ -1,8 +1,8 @@
 # Libft
 
-This is our first '42 school' project.
-It's goal is for us to understand how libaries work and to create our own libary. 
-For a lot of the upcoming C projects we are not allowed to use any libary functions other than self written functions.
+This is our first project at '42 School.'  
+The goal is to help us understand how libraries work and to create our own library.  
+For many of the upcoming C projects, we are not allowed to use any library functions except for those we write ourselves.
 
 ## Libft functions
 

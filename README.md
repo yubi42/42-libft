@@ -1,4 +1,4 @@
-#Libft
+# Libft
 
 This is our first '42 school' project.
 It's goal is for us to understand how libaries work and to create our own libary. 
